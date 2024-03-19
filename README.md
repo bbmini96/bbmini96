@@ -3,9 +3,9 @@
 
 
 <h3 align="center"> 📞 Contact 📞 </h3>
-<div align="center">
+<div style="display:flex; flex-direction:row;">
     <a href="mailto:changmin38@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" style: width = "100px" height ="50px"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.instagram.com/chan_g_03">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-thebadge&logo=Instagram&logoColor=white"> 
