@@ -26,8 +26,8 @@
      <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <!--
 **bbmini96/bbmini96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
