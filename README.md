@@ -3,7 +3,7 @@
 
 
 <h3 align="center"> 📞 Contact 📞 </h3>
-<div style="display:flex; flex-direction:row;">
+<div align="center">
     <a href="mailto:changmin38@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
